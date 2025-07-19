@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css2?family=Bitcount:wght@100..900&display=swap);
+
+body {
+    background-color: rgb(46, 42, 42);
+}
+
+h1 {
+    font-family: 'Bitcount', sans-serif;
+    color: aqua;
+}
+
+h2 {
+    font-family: 'Bitcount', sans-serif;
+    color: aquamarine;
+}
+
+p {
+    font-family: 'Bitcount', sans-serif;
+    color: rgb(150, 150, 150);
+}
+
+a {
+    font-family: 'Bitcount', sans-serif;
+    color: cadetblue;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline
+}
