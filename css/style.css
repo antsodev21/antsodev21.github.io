@@ -183,11 +183,13 @@ h2 {
 p {
     font-family: 'Bitcount', sans-serif;
     color: rgb(190, 128, 84);
+    font-size: 125%;
 }
 
 a {
     font-family: 'Bitcount', sans-serif;
     color: rgb(249, 195, 140);
+    font-size: 125%;
     text-decoration: none
 }
 
